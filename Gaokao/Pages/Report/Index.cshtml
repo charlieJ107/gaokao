@@ -1,0 +1,67 @@
+﻿@page
+@model Gaokao.Pages.Report.IndexModel
+
+@{
+    ViewData["Title"] = "搜索结果";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>搜索报告</h1>
+
+@if (!Model.IsLoadReady)
+{
+    <div>
+        正在加载和处理数据, 请稍等, 马上好...
+    </div>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ShowList[0].school.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ShowList[0].major.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ShowList[0].AveScoreDelta)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ShowList[0].AveRank)
+                </th>
+                <td>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ShowList)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.school.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.major.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AveScoreDelta)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AveRank)
+                    </td>
+                    <td>
+                        <a asp-page="./Details"
+                           asp-route-id="@item.major.ID"
+                           asp-route-year="@item.Year"
+                           asp-route-provice="@item.Provice">
+                            查看详情
+                        </a> 
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}

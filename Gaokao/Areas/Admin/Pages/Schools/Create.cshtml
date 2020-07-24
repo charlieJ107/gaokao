@@ -1,0 +1,70 @@
+﻿@page
+@model Gaokao.Areas.Admin.Pages.Schools.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>School</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="School.Name" class="control-label"></label>
+                <input asp-for="School.Name" class="form-control" />
+                <span asp-validation-for="School.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="School.Provice" class="control-label"></label>
+                <input asp-for="School.Provice" class="form-control" />
+                <span asp-validation-for="School.Provice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="School.City" class="control-label"></label>
+                <input asp-for="School.City" class="form-control" />
+                <span asp-validation-for="School.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="School.MajorType" class="control-label"></label>
+                <input asp-for="School.MajorType" class="form-control" />
+                <span asp-validation-for="School.MajorType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="School.Level" class="control-label"></label>
+                <input asp-for="School.Level" class="form-control" />
+                <span asp-validation-for="School.Level" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="School.Batch" class="control-label"></label>
+                <input asp-for="School.Batch" class="form-control" />
+                <span asp-validation-for="School.Batch" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="School.IsTopUniversity" /> @Html.DisplayNameFor(model => model.School.IsTopUniversity)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="School.IsTopMajor" /> @Html.DisplayNameFor(model => model.School.IsTopMajor)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,53 @@
+﻿@page
+@model Gaokao.Areas.Admin.Pages.ProviceControlLine.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>ControlLine</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Provice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Provice)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Year)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Year)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Level)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Level)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Score)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Score)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Rank)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Rank)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="ControlLine.ID" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

@@ -1,0 +1,72 @@
+﻿@page
+@model Gaokao.Pages.Report.SchoolDetailsModel
+
+@{
+    ViewData["Title"] = "学校详情";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>学校详情</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.School.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.School.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.School.Provice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.School.Provice)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.School.City)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.School.City)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.School.MajorType)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.School.MajorType)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.School.Level)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.School.Level)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.School.Batch)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.School.Batch)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.School.IsTopUniversity)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.School.IsTopUniversity)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.School.IsTopMajor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.School.IsTopMajor)
+        </dd>
+        <dt>
+            
+        </dt>
+        <dd>
+
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./School">Back to List</a>
+</div>

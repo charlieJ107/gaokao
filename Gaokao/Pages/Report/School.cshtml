@@ -1,0 +1,68 @@
+﻿@page
+@model Gaokao.Pages.Report.SchoolModel
+
+@{
+    ViewData["Title"] = "学校列表";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>学校列表</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].Provice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].MajorType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].Level)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].Batch)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].IsTopUniversity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].IsTopMajor)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.School) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Provice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MajorType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Level)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Batch)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsTopUniversity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsTopMajor)
+            </td>
+            <td>
+                <a asp-page="./School-Details" asp-route-id="@item.ID">查看详情</a> |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

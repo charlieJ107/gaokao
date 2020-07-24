@@ -1,0 +1,38 @@
+﻿@page
+@model Gaokao.Pages.Form.IndexModel
+@{
+    ViewData["Title"] = "主查找表单";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>查查这个分能有什么学上</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form id="profile-form" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Input.Score"></label>
+                <input asp-for="Input.Score" class="form-control" />
+                <span asp-validation-for="Input.Score" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.Provice"></label>
+                <select asp-for="Input.Provice" asp-items="Model.ProvicesList">
+                </select>
+                <span asp-validation-for="Input.Provice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.Year"></label>
+                <select asp-for="Input.Year" asp-items="Model.YearList">
+                </select>|
+                <span asp-validation-for="Input.Year" class="text-danger"></span>
+            </div>
+            <button id="update-profile-button" type="submit" class="btn btn-primary">提交查询</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

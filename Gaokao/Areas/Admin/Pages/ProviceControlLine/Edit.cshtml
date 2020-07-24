@@ -1,0 +1,56 @@
+﻿@page
+@model Gaokao.Areas.Admin.Pages.ProviceControlLine.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>ControlLine</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ControlLine.ID" />
+            <div class="form-group">
+                <label asp-for="ControlLine.Provice" class="control-label"></label>
+                <input asp-for="ControlLine.Provice" class="form-control" />
+                <span asp-validation-for="ControlLine.Provice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ControlLine.Year" class="control-label"></label>
+                <input asp-for="ControlLine.Year" class="form-control" />
+                <span asp-validation-for="ControlLine.Year" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ControlLine.Level" class="control-label"></label>
+                <input asp-for="ControlLine.Level" class="form-control" />
+                <span asp-validation-for="ControlLine.Level" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ControlLine.Score" class="control-label"></label>
+                <input asp-for="ControlLine.Score" class="form-control" />
+                <span asp-validation-for="ControlLine.Score" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ControlLine.Rank" class="control-label"></label>
+                <input asp-for="ControlLine.Rank" class="form-control" />
+                <span asp-validation-for="ControlLine.Rank" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

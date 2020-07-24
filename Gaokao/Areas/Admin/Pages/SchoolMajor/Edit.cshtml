@@ -1,0 +1,61 @@
+﻿@page
+@model Gaokao.Areas.Admin.Pages.SchoolMajor.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Major</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Major.ID" />
+            <div class="form-group">
+                <label asp-for="Major.SchoolId" class="control-label"></label>
+                <select asp-for="Major.SchoolId" class="form-control" asp-items="ViewBag.SchoolId"></select>
+                <span asp-validation-for="Major.SchoolId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Major.Type" class="control-label"></label>
+                <input asp-for="Major.Type" class="form-control" />
+                <span asp-validation-for="Major.Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Major.Subject" class="control-label"></label>
+                <input asp-for="Major.Subject" class="form-control" />
+                <span asp-validation-for="Major.Subject" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Major.Name" class="control-label"></label>
+                <input asp-for="Major.Name" class="form-control" />
+                <span asp-validation-for="Major.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Major.Code" class="control-label"></label>
+                <input asp-for="Major.Code" class="form-control" />
+                <span asp-validation-for="Major.Code" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Major.Level_Result" class="control-label"></label>
+                <input asp-for="Major.Level_Result" class="form-control" />
+                <span asp-validation-for="Major.Level_Result" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

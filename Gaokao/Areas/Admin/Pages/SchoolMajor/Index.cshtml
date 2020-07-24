@@ -1,0 +1,67 @@
+﻿@page
+@model Gaokao.Areas.Admin.Pages.SchoolMajor.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Major[0].School)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major[0].Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major[0].Subject)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major[0].Code)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major[0].Level_Result)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Major) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.School.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subject)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Code)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Level_Result)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

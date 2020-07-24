@@ -1,0 +1,79 @@
+﻿@page
+@model Gaokao.Areas.Admin.Pages.Schools.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].Provice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].MajorType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].Level)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].Batch)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].IsTopUniversity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.School[0].IsTopMajor)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.School) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Provice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MajorType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Level)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Batch)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsTopUniversity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsTopMajor)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

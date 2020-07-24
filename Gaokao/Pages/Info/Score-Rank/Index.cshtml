@@ -1,0 +1,51 @@
+﻿@page
+@model Gaokao.Pages.Info.Score_Rank.IndexModel
+
+@{
+    ViewData["Title"] = "一分一档表";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>一分一档表</h1>
+
+<h3>快速搜索</h3>
+<form>
+    <p>
+        <select asp-for="ProviceString" asp-items="Model.ProvicesList">
+            <option value="">All</option>
+        </select>
+        <select asp-for="YearString" asp-items="Model.YearList">
+            <option value="">All</option>
+        </select>|
+        <a asp-page="./Index">返回完整列表</a>
+    </p>
+</form>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Score_Rank_Table[0].Year)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score_Rank_Table[0].Provice)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Score_Rank_Table) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Provice)
+            </td>
+            <td>
+                <a asp-page="./@item.type" asp-route-provice="@item.Provice" asp-route-year="@item.Year">查看</a> |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

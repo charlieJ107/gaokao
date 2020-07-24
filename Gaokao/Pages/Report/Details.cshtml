@@ -1,0 +1,63 @@
+﻿@page
+@model Gaokao.Pages.Report.DetailsModel
+
+@{
+    ViewData["Title"] = "详细情况";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>详细情况</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShowModel.school.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShowModel.school.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShowModel.major.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShowModel.major.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShowModel.AveRank)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShowModel.AveRank)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShowModel.AveScoreDelta)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShowModel.AveScoreDelta)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShowModel.MaxRank)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShowModel.MaxRank)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShowModel.MaxScoreDelta)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShowModel.MaxScoreDelta)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShowModel.MinRank)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShowModel.MinRank)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShowModel.MinScoreDelta)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShowModel.MinScoreDelta)
+        </dd>
+    </dl>
+</div>

@@ -1,0 +1,50 @@
+﻿@page
+@model Gaokao.Areas.Admin.Pages.ProviceControlLine.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ControlLine</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Provice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Provice)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Year)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Year)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Level)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Level)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Score)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Score)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ControlLine.Rank)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ControlLine.Rank)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.ControlLine.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

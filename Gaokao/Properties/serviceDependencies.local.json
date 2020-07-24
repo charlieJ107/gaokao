@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "DefaultConnection"
+    },
+    "mssql2": {
+      "type": "mssql.onprem",
+      "connectionId": "Gaogao-dev-1",
+      "secretStore": "LocalSecretsFile"
+    }
+  }
+}

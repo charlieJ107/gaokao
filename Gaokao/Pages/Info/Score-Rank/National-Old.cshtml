@@ -1,0 +1,53 @@
+﻿@page "{searchString?}"
+@model Gaokao.Pages.Info.Score_Rank._2019.NationalOldModel
+
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>@ViewData["Year"] @ViewData["Provice"] 高考一分一档表</h1>
+<h3>@ViewData["Type"]</h3>
+
+<form>
+    <p>
+        <span>根据分数快速查找:</span> <input type="text" asp-for="SearchString" class="form-control" />
+        <input type="submit" value="查找" class="btn-primary" />|
+        <a asp-page="./National-Old" >返回完整列表</a>
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Score_Rank_Items_List[0].Score)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score_Rank_Items_List[0].People)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score_Rank_Items_List[0].TotalPeople)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score_Rank_Items_List[0].Rank)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Score_Rank_Items_List) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Score)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.People)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalPeople)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rank)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
