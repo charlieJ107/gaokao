@@ -1,0 +1,1182 @@
+{
+    "TextDetections": [
+        {
+            "ColTl": 0,
+            "RowTl": 11,
+            "ColBr": 1,
+            "RowBr": 12,
+            "Text": "科目组及专业名称",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 4499
+                },
+                {
+                    "X": 1416,
+                    "Y": 4500
+                },
+                {
+                    "X": 1416,
+                    "Y": 4593
+                },
+                {
+                    "X": 349,
+                    "Y": 4593
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 2,
+            "RowTl": 7,
+            "ColBr": 3,
+            "RowBr": 8,
+            "Text": "[投档数",
+            "Type": "body",
+            "Confidence": 90,
+            "Polygon": [
+                {
+                    "X": 1687,
+                    "Y": 3308
+                },
+                {
+                    "X": 1957,
+                    "Y": 3308
+                },
+                {
+                    "X": 1957,
+                    "Y": 3397
+                },
+                {
+                    "X": 1687,
+                    "Y": 3397
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 3,
+            "RowTl": 7,
+            "ColBr": 4,
+            "RowBr": 8,
+            "Text": "[_录取数",
+            "Type": "body",
+            "Confidence": 84,
+            "Polygon": [
+                {
+                    "X": 1957,
+                    "Y": 3308
+                },
+                {
+                    "X": 2229,
+                    "Y": 3308
+                },
+                {
+                    "X": 2229,
+                    "Y": 3397
+                },
+                {
+                    "X": 1957,
+                    "Y": 3397
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 4,
+            "RowTl": 7,
+            "ColBr": 5,
+            "RowBr": 8,
+            "Text": "分数分布",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 2229,
+                    "Y": 3308
+                },
+                {
+                    "X": 3818,
+                    "Y": 3308
+                },
+                {
+                    "X": 3818,
+                    "Y": 3397
+                },
+                {
+                    "X": 2229,
+                    "Y": 3397
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 8,
+            "ColBr": 1,
+            "RowBr": 9,
+            "Text": "理工类\n数学与应用数学\n信息与计算科学\n机械设计制造及其自动化\n机械工艺技术\n计算机科学与技术\n 文史类\n汉语国际教育\n新闻学",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 3397
+                },
+                {
+                    "X": 1420,
+                    "Y": 3397
+                },
+                {
+                    "X": 1415,
+                    "Y": 4305
+                },
+                {
+                    "X": 348,
+                    "Y": 4304
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 1,
+            "RowTl": 8,
+            "ColBr": 2,
+            "RowBr": 9,
+            "Text": "21 I\n5\n5\n3\n3\n5\n10 \n5\n5",
+            "Type": "body",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 1420,
+                    "Y": 3397
+                },
+                {
+                    "X": 1687,
+                    "Y": 3397
+                },
+                {
+                    "X": 1687,
+                    "Y": 4305
+                },
+                {
+                    "X": 1415,
+                    "Y": 4305
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 2,
+            "RowTl": 8,
+            "ColBr": 3,
+            "RowBr": 9,
+            "Text": "21\n10 ",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 1687,
+                    "Y": 3397
+                },
+                {
+                    "X": 1957,
+                    "Y": 3397
+                },
+                {
+                    "X": 1958,
+                    "Y": 4305
+                },
+                {
+                    "X": 1687,
+                    "Y": 4305
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 3,
+            "RowTl": 8,
+            "ColBr": 4,
+            "RowBr": 9,
+            "Text": "20\n4\n5\n3\n3\n5\n0\n5\n5",
+            "Type": "body",
+            "Confidence": 96,
+            "Polygon": [
+                {
+                    "X": 1957,
+                    "Y": 3397
+                },
+                {
+                    "X": 2229,
+                    "Y": 3397
+                },
+                {
+                    "X": 2229,
+                    "Y": 4305
+                },
+                {
+                    "X": 1958,
+                    "Y": 4305
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 4,
+            "RowTl": 8,
+            "ColBr": 5,
+            "RowBr": 9,
+            "Text": "420:1;417:1;411:1;409:1;406:1;404:1;403:2;\n402:1;400:1;399:3;398:2;397 :3;396:1;395:2.\n398:2 397:1 395 1\n403:1;402:1;399:1;397:2.\n417:1; 409:1;399:1.\n400:1;396:1;395:1.\n420:1;411:1; 406:1;404:1;403:1.\n463:1;458:2;457:1;453:3;452:1;451:1;448:1.\n463:1;458:2;453:2.\nL 457:1;453:1;452:1;451:1;448:1.",
+            "Type": "body",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 2229,
+                    "Y": 3397
+                },
+                {
+                    "X": 3818,
+                    "Y": 3397
+                },
+                {
+                    "X": 3817,
+                    "Y": 4304
+                },
+                {
+                    "X": 2229,
+                    "Y": 4305
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 9,
+            "ColBr": 5,
+            "RowBr": 10,
+            "Text": "",
+            "Type": "body",
+            "Confidence": 0,
+            "Polygon": [
+                {
+                    "X": 348,
+                    "Y": 4304
+                },
+                {
+                    "X": 3817,
+                    "Y": 4304
+                },
+                {
+                    "X": 3818,
+                    "Y": 4417
+                },
+                {
+                    "X": 349,
+                    "Y": 4417
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 10,
+            "ColBr": 5,
+            "RowBr": 11,
+            "Text": "C年份: 2019 院校代码: 10122院校名称:长治学院录取批次:本科第二批",
+            "Type": "body",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 4417
+                },
+                {
+                    "X": 3818,
+                    "Y": 4417
+                },
+                {
+                    "X": 3818,
+                    "Y": 4504
+                },
+                {
+                    "X": 349,
+                    "Y": 4499
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 1,
+            "RowTl": 7,
+            "ColBr": 2,
+            "RowBr": 8,
+            "Text": "计划数",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 1421,
+                    "Y": 3308
+                },
+                {
+                    "X": 1687,
+                    "Y": 3308
+                },
+                {
+                    "X": 1687,
+                    "Y": 3397
+                },
+                {
+                    "X": 1420,
+                    "Y": 3397
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 1,
+            "RowTl": 11,
+            "ColBr": 2,
+            "RowBr": 12,
+            "Text": "[计划数",
+            "Type": "body",
+            "Confidence": 89,
+            "Polygon": [
+                {
+                    "X": 1416,
+                    "Y": 4500
+                },
+                {
+                    "X": 1687,
+                    "Y": 4501
+                },
+                {
+                    "X": 1687,
+                    "Y": 4593
+                },
+                {
+                    "X": 1416,
+                    "Y": 4593
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 2,
+            "RowTl": 11,
+            "ColBr": 3,
+            "RowBr": 12,
+            "Text": "投档数",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 1687,
+                    "Y": 4501
+                },
+                {
+                    "X": 1958,
+                    "Y": 4501
+                },
+                {
+                    "X": 1958,
+                    "Y": 4593
+                },
+                {
+                    "X": 1687,
+                    "Y": 4593
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 3,
+            "RowTl": 11,
+            "ColBr": 4,
+            "RowBr": 12,
+            "Text": "[录取数",
+            "Type": "body",
+            "Confidence": 90,
+            "Polygon": [
+                {
+                    "X": 1958,
+                    "Y": 4501
+                },
+                {
+                    "X": 2229,
+                    "Y": 4502
+                },
+                {
+                    "X": 2229,
+                    "Y": 4593
+                },
+                {
+                    "X": 1958,
+                    "Y": 4593
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 4,
+            "RowTl": 11,
+            "ColBr": 5,
+            "RowBr": 12,
+            "Text": "分数分布",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 2229,
+                    "Y": 4502
+                },
+                {
+                    "X": 3818,
+                    "Y": 4504
+                },
+                {
+                    "X": 3818,
+                    "Y": 4593
+                },
+                {
+                    "X": 2229,
+                    "Y": 4593
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 12,
+            "ColBr": 1,
+            "RowBr": 13,
+            "Text": "理工类\n数学与应用数学\n物理学\n生物科学\n光电信息科学与工程\n电子信息科学与技术\n网络工程\n文史类\n法学\n思想政治教育",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 4593
+                },
+                {
+                    "X": 1416,
+                    "Y": 4593
+                },
+                {
+                    "X": 1415,
+                    "Y": 5501
+                },
+                {
+                    "X": 349,
+                    "Y": 5501
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 1,
+            "RowTl": 12,
+            "ColBr": 2,
+            "RowBr": 13,
+            "Text": "6\n1\n1\n1\n1\n1\n1\n5\n1\n1",
+            "Type": "body",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 1416,
+                    "Y": 4593
+                },
+                {
+                    "X": 1687,
+                    "Y": 4593
+                },
+                {
+                    "X": 1686,
+                    "Y": 5501
+                },
+                {
+                    "X": 1415,
+                    "Y": 5501
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 2,
+            "RowTl": 12,
+            "ColBr": 3,
+            "RowBr": 13,
+            "Text": "6\n5",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 1687,
+                    "Y": 4593
+                },
+                {
+                    "X": 1958,
+                    "Y": 4593
+                },
+                {
+                    "X": 1958,
+                    "Y": 5501
+                },
+                {
+                    "X": 1686,
+                    "Y": 5501
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 3,
+            "RowTl": 12,
+            "ColBr": 4,
+            "RowBr": 13,
+            "Text": "6\n1\n1\n1\n1\n1\n1\n5\n1\n1",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 1958,
+                    "Y": 4593
+                },
+                {
+                    "X": 2229,
+                    "Y": 4593
+                },
+                {
+                    "X": 2229,
+                    "Y": 5501
+                },
+                {
+                    "X": 1958,
+                    "Y": 5501
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 4,
+            "RowTl": 12,
+            "ColBr": 5,
+            "RowBr": 13,
+            "Text": "423:1;413:1;404:1;402:1;399:1;398:1.\n413:1.\n404:1.\n402:1.\n399:1.\n423:1.\n398:1.\n450:1;447:1;444:1;443:1;442:1.\n447:1.\n442:1.",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 2229,
+                    "Y": 4593
+                },
+                {
+                    "X": 3818,
+                    "Y": 4593
+                },
+                {
+                    "X": 3818,
+                    "Y": 5501
+                },
+                {
+                    "X": 2229,
+                    "Y": 5501
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 3,
+            "RowTl": 3,
+            "ColBr": 4,
+            "RowBr": 4,
+            "Text": "录取数",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 1964,
+                    "Y": 1203
+                },
+                {
+                    "X": 2235,
+                    "Y": 1203
+                },
+                {
+                    "X": 2234,
+                    "Y": 1292
+                },
+                {
+                    "X": 1964,
+                    "Y": 1292
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 1,
+            "RowTl": 0,
+            "ColBr": 2,
+            "RowBr": 1,
+            "Text": "2\n2\n2\n2\n2\n2",
+            "Type": "body",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 1421,
+                    "Y": 366
+                },
+                {
+                    "X": 1687,
+                    "Y": 366
+                },
+                {
+                    "X": 1687,
+                    "Y": 1003
+                },
+                {
+                    "X": 1421,
+                    "Y": 1003
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 2,
+            "RowTl": 0,
+            "ColBr": 3,
+            "RowBr": 1,
+            "Text": "",
+            "Type": "body",
+            "Confidence": 0,
+            "Polygon": [
+                {
+                    "X": 1687,
+                    "Y": 366
+                },
+                {
+                    "X": 1964,
+                    "Y": 366
+                },
+                {
+                    "X": 1964,
+                    "Y": 1003
+                },
+                {
+                    "X": 1687,
+                    "Y": 1003
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 3,
+            "RowTl": 0,
+            "ColBr": 4,
+            "RowBr": 1,
+            "Text": "2\n2\n2\n2\n2\n1-",
+            "Type": "body",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 1964,
+                    "Y": 366
+                },
+                {
+                    "X": 2228,
+                    "Y": 366
+                },
+                {
+                    "X": 2235,
+                    "Y": 1003
+                },
+                {
+                    "X": 1964,
+                    "Y": 1003
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 4,
+            "RowTl": 0,
+            "ColBr": 5,
+            "RowBr": 1,
+            "Text": "467:1; 466:2;459:1;458:1.\n467 :1;458:1.\n476:1;466:1.\n487:1;479:1.\n495:1;480:1.\n474:1;466:1.\n473:1.",
+            "Type": "body",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 2228,
+                    "Y": 366
+                },
+                {
+                    "X": 3818,
+                    "Y": 366
+                },
+                {
+                    "X": 3817,
+                    "Y": 1002
+                },
+                {
+                    "X": 2235,
+                    "Y": 1003
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 1,
+            "ColBr": 5,
+            "RowBr": 2,
+            "Text": "",
+            "Type": "body",
+            "Confidence": 0,
+            "Polygon": [
+                {
+                    "X": 348,
+                    "Y": 1002
+                },
+                {
+                    "X": 3817,
+                    "Y": 1002
+                },
+                {
+                    "X": 3817,
+                    "Y": 1109
+                },
+                {
+                    "X": 349,
+                    "Y": 1109
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 2,
+            "ColBr": 5,
+            "RowBr": 3,
+            "Text": "C 年份: 2019 院校代码:10120 院校名称:山西大同大学 录取批次:本科第二批",
+            "Type": "body",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 1109
+                },
+                {
+                    "X": 3817,
+                    "Y": 1109
+                },
+                {
+                    "X": 3818,
+                    "Y": 1203
+                },
+                {
+                    "X": 349,
+                    "Y": 1203
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 3,
+            "ColBr": 1,
+            "RowBr": 4,
+            "Text": "科目组及专业名称",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 1203
+                },
+                {
+                    "X": 1421,
+                    "Y": 1203
+                },
+                {
+                    "X": 1420,
+                    "Y": 1292
+                },
+                {
+                    "X": 349,
+                    "Y": 1292
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 1,
+            "RowTl": 3,
+            "ColBr": 2,
+            "RowBr": 4,
+            "Text": "_计划数",
+            "Type": "body",
+            "Confidence": 89,
+            "Polygon": [
+                {
+                    "X": 1421,
+                    "Y": 1203
+                },
+                {
+                    "X": 1687,
+                    "Y": 1203
+                },
+                {
+                    "X": 1687,
+                    "Y": 1292
+                },
+                {
+                    "X": 1420,
+                    "Y": 1292
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 2,
+            "RowTl": 3,
+            "ColBr": 3,
+            "RowBr": 4,
+            "Text": "[投档数",
+            "Type": "body",
+            "Confidence": 90,
+            "Polygon": [
+                {
+                    "X": 1687,
+                    "Y": 1203
+                },
+                {
+                    "X": 1964,
+                    "Y": 1203
+                },
+                {
+                    "X": 1964,
+                    "Y": 1292
+                },
+                {
+                    "X": 1687,
+                    "Y": 1292
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 0,
+            "ColBr": 1,
+            "RowBr": 1,
+            "Text": "人文教育\n学前教育\n汉语言文学\n英语\n历史学\n城市管理",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 366
+                },
+                {
+                    "X": 1421,
+                    "Y": 366
+                },
+                {
+                    "X": 1421,
+                    "Y": 1003
+                },
+                {
+                    "X": 348,
+                    "Y": 1002
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 4,
+            "RowTl": 3,
+            "ColBr": 5,
+            "RowBr": 4,
+            "Text": "分数分布",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 2235,
+                    "Y": 1203
+                },
+                {
+                    "X": 3818,
+                    "Y": 1203
+                },
+                {
+                    "X": 3818,
+                    "Y": 1292
+                },
+                {
+                    "X": 2234,
+                    "Y": 1292
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 4,
+            "ColBr": 1,
+            "RowBr": 5,
+            "Text": "理工类\n数学与应用数学\n化学\n生物科学\n光电信息科学与工程\n电子信息科学与技术\n计算机科学与技术\n临床医学\n护理学\n文史类\n法学\n汉语言文学\n商务英语\n心理学",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 1292
+                },
+                {
+                    "X": 1420,
+                    "Y": 1292
+                },
+                {
+                    "X": 1415,
+                    "Y": 3108
+                },
+                {
+                    "X": 349,
+                    "Y": 3108
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 1,
+            "RowTl": 4,
+            "ColBr": 2,
+            "RowBr": 5,
+            "Text": "48\n10\n5\n5\n5\n5\n5\n5\n8\n20 \n5\n5\n5\n5",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 1420,
+                    "Y": 1292
+                },
+                {
+                    "X": 1687,
+                    "Y": 1292
+                },
+                {
+                    "X": 1687,
+                    "Y": 3108
+                },
+                {
+                    "X": 1415,
+                    "Y": 3108
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 2,
+            "RowTl": 4,
+            "ColBr": 3,
+            "RowBr": 5,
+            "Text": "48\n20",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 1687,
+                    "Y": 1292
+                },
+                {
+                    "X": 1964,
+                    "Y": 1292
+                },
+                {
+                    "X": 1964,
+                    "Y": 3108
+                },
+                {
+                    "X": 1687,
+                    "Y": 3108
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 3,
+            "RowTl": 4,
+            "ColBr": 4,
+            "RowBr": 5,
+            "Text": "40\n9\n5\n5\n5\n5\n5\n5\n1\n19\n5\n5\n4\n5",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 1964,
+                    "Y": 1292
+                },
+                {
+                    "X": 2234,
+                    "Y": 1292
+                },
+                {
+                    "X": 2228,
+                    "Y": 3108
+                },
+                {
+                    "X": 1964,
+                    "Y": 3108
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 4,
+            "RowTl": 4,
+            "ColBr": 5,
+            "RowBr": 5,
+            "Text": "479:1;476:2;475:1;474:1;473:2;472:1;469:1;\n467:2;463:1;461:1;460:1;459:2;458:1;457:1;\n456:2;455:1;454:2;453:4;452:1;451:3;450:3;\n449:1;448:3;446:1;445:1;442:1;440:2;439:1;\n437:1;434:3.\n454:2;453:2;449:1;442:1;440:1;437:1;434:1.\n472:1;469:1;455:1;451:1;439:1.\n467:1;459:1;453:1;446:1;445:1.\n460:1;456:1;452:1;448:2.\n451:2;450:2;448:1.\n474:1;459:1;458:1;457:1;456:1.\n479:1;476:2;475:1;473:1.\n434:1.\n501:1;499:1;491:1;490:1;489:2;487:1;486:1;\n485:1;483:1;482:1;480:2;477:2;475:2;474:2;\n472:1.\n490:1;487:1;483:1;480:1;477:1.\n501:1;499:1;491:1;489:2.\n485:1;477:1;474:1;472:1.\nL 486:1;482:1;480:1;475:2.",
+            "Type": "body",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 2234,
+                    "Y": 1292
+                },
+                {
+                    "X": 3818,
+                    "Y": 1292
+                },
+                {
+                    "X": 3818,
+                    "Y": 3108
+                },
+                {
+                    "X": 2228,
+                    "Y": 3108
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 5,
+            "ColBr": 5,
+            "RowBr": 6,
+            "Text": "",
+            "Type": "body",
+            "Confidence": 0,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 3108
+                },
+                {
+                    "X": 3818,
+                    "Y": 3108
+                },
+                {
+                    "X": 3818,
+                    "Y": 3213
+                },
+                {
+                    "X": 349,
+                    "Y": 3213
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 6,
+            "ColBr": 5,
+            "RowBr": 7,
+            "Text": "[年份: 2019院校代码:10121 院校名称:晋中学院 录取批次:本科第二 批",
+            "Type": "body",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 3213
+                },
+                {
+                    "X": 3818,
+                    "Y": 3213
+                },
+                {
+                    "X": 3818,
+                    "Y": 3308
+                },
+                {
+                    "X": 349,
+                    "Y": 3308
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": 0,
+            "RowTl": 7,
+            "ColBr": 1,
+            "RowBr": 8,
+            "Text": "科目组及专业名称",
+            "Type": "body",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 349,
+                    "Y": 3308
+                },
+                {
+                    "X": 1421,
+                    "Y": 3308
+                },
+                {
+                    "X": 1420,
+                    "Y": 3397
+                },
+                {
+                    "X": 349,
+                    "Y": 3397
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "40",
+            "Type": "footer",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 348,
+                    "Y": 5599
+                },
+                {
+                    "X": 3818,
+                    "Y": 5599
+                },
+                {
+                    "X": 3818,
+                    "Y": 5666
+                },
+                {
+                    "X": 348,
+                    "Y": 5666
+                }
+            ],
+            "AdvancedInfo": "{}"
+        }
+    ],
+    "Data": "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",
+    "RequestId": "6f05c391-f0df-46e0-9670-26e87119402c"
+}

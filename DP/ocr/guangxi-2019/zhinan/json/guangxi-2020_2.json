@@ -1,0 +1,1434 @@
+{
+    "TextDetections": [
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "录",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 595
+                },
+                {
+                    "X": 3842,
+                    "Y": 595
+                },
+                {
+                    "X": 3842,
+                    "Y": 808
+                },
+                {
+                    "X": 368,
+                    "Y": 808
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "2019年各本科院校在广西招生平行志愿11417 北京联合.................... (357)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1167
+                },
+                {
+                    "X": 3842,
+                    "Y": 1167
+                },
+                {
+                    "X": 3842,
+                    "Y": 1258
+                },
+                {
+                    "X": 368,
+                    "Y": 1258
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "第一次投档及其录取数据资料11418 北京城市学院.(357)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1276
+                },
+                {
+                    "X": 3842,
+                    "Y": 1276
+                },
+                {
+                    "X": 3842,
+                    "Y": 1366
+                },
+                {
+                    "X": 368,
+                    "Y": 1366
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "12453 中国劳动关系学院.....(424)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1380
+                },
+                {
+                    "X": 3842,
+                    "Y": 1380
+                },
+                {
+                    "X": 3842,
+                    "Y": 1458
+                },
+                {
+                    "X": 368,
+                    "Y": 1458
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "北京",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1430
+                },
+                {
+                    "X": 3842,
+                    "Y": 1430
+                },
+                {
+                    "X": 3842,
+                    "Y": 1506
+                },
+                {
+                    "X": 368,
+                    "Y": 1506
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13630 北京工商大学嘉华学院.(490)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1484
+                },
+                {
+                    "X": 3842,
+                    "Y": 1484
+                },
+                {
+                    "X": 3842,
+                    "Y": 1563
+                },
+                {
+                    "X": 368,
+                    "Y": 1563
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": " . (1)",
+            "Type": "header",
+            "Confidence": 96,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1537
+                },
+                {
+                    "X": 3842,
+                    "Y": 1537
+                },
+                {
+                    "X": 3842,
+                    "Y": 1605
+                },
+                {
+                    "X": 368,
+                    "Y": 1605
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13901 北京邮电大学世纪学院..(537)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1590
+                },
+                {
+                    "X": 3842,
+                    "Y": 1590
+                },
+                {
+                    "X": 3842,
+                    "Y": 1668
+                },
+                {
+                    "X": 368,
+                    "Y": 1668
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10002 中国人民.学...................... (1)",
+            "Type": "header",
+            "Confidence": 95,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1636
+                },
+                {
+                    "X": 3842,
+                    "Y": 1636
+                },
+                {
+                    "X": 3842,
+                    "Y": 1715
+                },
+                {
+                    "X": 368,
+                    "Y": 1715
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13904 北京工业大学耿丹学院............ (538)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1695
+                },
+                {
+                    "X": 3842,
+                    "Y": 1695
+                },
+                {
+                    "X": 3842,
+                    "Y": 1775
+                },
+                {
+                    "X": 368,
+                    "Y": 1775
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": ".. (2)",
+            "Type": "header",
+            "Confidence": 95,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1745
+                },
+                {
+                    "X": 3842,
+                    "Y": 1745
+                },
+                {
+                    "X": 3842,
+                    "Y": 1812
+                },
+                {
+                    "X": 368,
+                    "Y": 1812
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "14201 北京第二外国语学院中瑞酒店管理",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1797
+                },
+                {
+                    "X": 3842,
+                    "Y": 1797
+                },
+                {
+                    "X": 3842,
+                    "Y": 1877
+                },
+                {
+                    "X": 368,
+                    "Y": 1877
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10004 北京交通大学.........",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1842
+                },
+                {
+                    "X": 3842,
+                    "Y": 1842
+                },
+                {
+                    "X": 3842,
+                    "Y": 1920
+                },
+                {
+                    "X": 368,
+                    "Y": 1920
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "学院......................... (555)",
+            "Type": "header",
+            "Confidence": 95,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1906
+                },
+                {
+                    "X": 3842,
+                    "Y": 1906
+                },
+                {
+                    "X": 3842,
+                    "Y": 1984
+                },
+                {
+                    "X": 368,
+                    "Y": 1984
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "..(3)",
+            "Type": "header",
+            "Confidence": 84,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 1950
+                },
+                {
+                    "X": 3842,
+                    "Y": 1950
+                },
+                {
+                    "X": 3842,
+                    "Y": 2022
+                },
+                {
+                    "X": 368,
+                    "Y": 2022
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "19001 北京大学医学部.(565)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2009
+                },
+                {
+                    "X": 3842,
+                    "Y": 2009
+                },
+                {
+                    "X": 3842,
+                    "Y": 2086
+                },
+                {
+                    "X": 368,
+                    "Y": 2086
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10006 北京航空航................... (3)",
+            "Type": "header",
+            "Confidence": 95,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2055
+                },
+                {
+                    "X": 3842,
+                    "Y": 2055
+                },
+                {
+                    "X": 3842,
+                    "Y": 2133
+                },
+                {
+                    "X": 368,
+                    "Y": 2133
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "19013 北京邮电大学(宏福校........... (565)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2114
+                },
+                {
+                    "X": 3842,
+                    "Y": 2114
+                },
+                {
+                    "X": 3842,
+                    "Y": 2195
+                },
+                {
+                    "X": 368,
+                    "Y": 2195
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10007- 北京理工大学.. (3)",
+            "Type": "header",
+            "Confidence": 95,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2157
+                },
+                {
+                    "X": 3842,
+                    "Y": 2157
+                },
+                {
+                    "X": 3842,
+                    "Y": 2233
+                },
+                {
+                    "X": 368,
+                    "Y": 2233
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "60019 中国农业大学(中外合作).(570)",
+            "Type": "header",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2221
+                },
+                {
+                    "X": 3842,
+                    "Y": 2221
+                },
+                {
+                    "X": 3842,
+                    "Y": 2300
+                },
+                {
+                    "X": 368,
+                    "Y": 2300
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10009..北方工业大学..60034 中央财经大学(中外合作) .......... (570)",
+            "Type": "header",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2327
+                },
+                {
+                    "X": 3842,
+                    "Y": 2327
+                },
+                {
+                    "X": 3842,
+                    "Y": 2442
+                },
+                {
+                    "X": 368,
+                    "Y": 2442
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10010 .北京化工大学.. . (5)天津",
+            "Type": "header",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2440
+                },
+                {
+                    "X": 3842,
+                    "Y": 2440
+                },
+                {
+                    "X": 3842,
+                    "Y": 2545
+                },
+                {
+                    "X": 368,
+                    "Y": 2545
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10011- 北京工商大学.10055. 南开大学...................... (18)",
+            "Type": "header",
+            "Confidence": 96,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2541
+                },
+                {
+                    "X": 3842,
+                    "Y": 2541
+                },
+                {
+                    "X": 3842,
+                    "Y": 2652
+                },
+                {
+                    "X": 368,
+                    "Y": 2652
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10012 北京服装学院... (6)10056 天津大学(18)",
+            "Type": "header",
+            "Confidence": 94,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2641
+                },
+                {
+                    "X": 3842,
+                    "Y": 2641
+                },
+                {
+                    "X": 3842,
+                    "Y": 2755
+                },
+                {
+                    "X": 368,
+                    "Y": 2755
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10013 北京邮电大学.10057. 天津科技大学........",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2748
+                },
+                {
+                    "X": 3842,
+                    "Y": 2748
+                },
+                {
+                    "X": 3842,
+                    "Y": 2862
+                },
+                {
+                    "X": 368,
+                    "Y": 2862
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10015. 北京印刷学院.10058 天津工业大学(20)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2853
+                },
+                {
+                    "X": 3842,
+                    "Y": 2853
+                },
+                {
+                    "X": 3842,
+                    "Y": 2964
+                },
+                {
+                    "X": 368,
+                    "Y": 2964
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10016 北京建筑大学... (7)10059 中国民航大学,. (21)",
+            "Type": "header",
+            "Confidence": 96,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 2955
+                },
+                {
+                    "X": 3842,
+                    "Y": 2955
+                },
+                {
+                    "X": 3842,
+                    "Y": 3067
+                },
+                {
+                    "X": 368,
+                    "Y": 3067
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10017 北京石油化工学院.... (7)10060 天津理工大学(21)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 3062
+                },
+                {
+                    "X": 3842,
+                    "Y": 3062
+                },
+                {
+                    "X": 3842,
+                    "Y": 3171
+                },
+                {
+                    "X": 368,
+                    "Y": 3171
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10019. 中国农业大学... (8)10061. 天津农学院......(23)",
+            "Type": "header",
+            "Confidence": 96,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 3170
+                },
+                {
+                    "X": 3842,
+                    "Y": 3170
+                },
+                {
+                    "X": 3842,
+                    "Y": 3275
+                },
+                {
+                    "X": 368,
+                    "Y": 3275
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10020 北京农学院... : (8)10062. 天津医科大学(23)",
+            "Type": "header",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 3274
+                },
+                {
+                    "X": 3842,
+                    "Y": 3274
+                },
+                {
+                    "X": 3842,
+                    "Y": 3381
+                },
+                {
+                    "X": 368,
+                    "Y": 3381
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10022. 北京林业大学... (9)10063. 天津中医药大学(24)",
+            "Type": "header",
+            "Confidence": 96,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 3378
+                },
+                {
+                    "X": 3842,
+                    "Y": 3378
+                },
+                {
+                    "X": 3842,
+                    "Y": 3483
+                },
+                {
+                    "X": 368,
+                    "Y": 3483
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10025. 首都医科大学(10)10065. 天津师范大学...........(24)",
+            "Type": "header",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 3482
+                },
+                {
+                    "X": 3842,
+                    "Y": 3482
+                },
+                {
+                    "X": 3842,
+                    "Y": 3588
+                },
+                {
+                    "X": 368,
+                    "Y": 3588
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10026 北京中医药大学(10)10066 天津职业技术师范大学(26)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 3590
+                },
+                {
+                    "X": 3842,
+                    "Y": 3590
+                },
+                {
+                    "X": 3842,
+                    "Y": 3691
+                },
+                {
+                    "X": 368,
+                    "Y": 3691
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10028 首都师范大学(10)10068 天津外国语大学.................. : (27)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 3694
+                },
+                {
+                    "X": 3842,
+                    "Y": 3694
+                },
+                {
+                    "X": 3842,
+                    "Y": 3793
+                },
+                {
+                    "X": 368,
+                    "Y": 3793
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10030 北京外国语大学(11)10069. 天津商业大学(28)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 3798
+                },
+                {
+                    "X": 3842,
+                    "Y": 3798
+                },
+                {
+                    "X": 3842,
+                    "Y": 3901
+                },
+                {
+                    "X": 368,
+                    "Y": 3901
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10031. . 北京第二外国语学院(11)10070. 天津财经大学................... . (29)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 3904
+                },
+                {
+                    "X": 3842,
+                    "Y": 3904
+                },
+                {
+                    "X": 3842,
+                    "Y": 4005
+                },
+                {
+                    "X": 368,
+                    "Y": 4005
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10032 北京语言大学(12)10080 :河北工业大学(32)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4008
+                },
+                {
+                    "X": 3842,
+                    "Y": 4008
+                },
+                {
+                    "X": 3842,
+                    "Y": 4105
+                },
+                {
+                    "X": 368,
+                    "Y": 4105
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10033 中国传媒大学(12)10792 天津城建...................... (313)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4114
+                },
+                {
+                    "X": 3842,
+                    "Y": 4114
+                },
+                {
+                    "X": 3842,
+                    "Y": 4212
+                },
+                {
+                    "X": 368,
+                    "Y": 4212
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10034- 中央财经大学(13)10859. 天津天狮学院.(318)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4218
+                },
+                {
+                    "X": 3842,
+                    "Y": 4218
+                },
+                {
+                    "X": 3842,
+                    "Y": 4314
+                },
+                {
+                    "X": 368,
+                    "Y": 4314
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10036 对外经济贸易大学(14)12105 天津中德应用技术大学............. (420)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4325
+                },
+                {
+                    "X": 3842,
+                    "Y": 4325
+                },
+                {
+                    "X": 3842,
+                    "Y": 4420
+                },
+                {
+                    "X": 368,
+                    "Y": 4420
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10037 北京物资学院.....(14)13658. 天津外国语大学滨海外事学院.(513)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4429
+                },
+                {
+                    "X": 3842,
+                    "Y": 4429
+                },
+                {
+                    "X": 3842,
+                    "Y": 4524
+                },
+                {
+                    "X": 368,
+                    "Y": 4524
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10038 首都经济贸易大学,(15)13660.. 天津商业大学宝德学院..(514)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4535
+                },
+                {
+                    "X": 3842,
+                    "Y": 4535
+                },
+                {
+                    "X": 3842,
+                    "Y": 4630
+                },
+                {
+                    "X": 368,
+                    "Y": 4630
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10043 北京体育大学....(15)13661. 天津医科大学临床医学院........... (514)",
+            "Type": "header",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4639
+                },
+                {
+                    "X": 3842,
+                    "Y": 4639
+                },
+                {
+                    "X": 3842,
+                    "Y": 4734
+                },
+                {
+                    "X": 368,
+                    "Y": 4734
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13663. 南开大学滨海学院...........(515)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4745
+                },
+                {
+                    "X": 3842,
+                    "Y": 4745
+                },
+                {
+                    "X": 3842,
+                    "Y": 4821
+                },
+                {
+                    "X": 368,
+                    "Y": 4821
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10053- 中国政法大学.....(16)13897. 天津理工大学中环信息学院.......... (534)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4849
+                },
+                {
+                    "X": 3842,
+                    "Y": 4849
+                },
+                {
+                    "X": 3842,
+                    "Y": 4938
+                },
+                {
+                    "X": 368,
+                    "Y": 4938
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10054 .华北电力大学(北京)(17)13898 .北京科技大学天津学院.(535)",
+            "Type": "header",
+            "Confidence": 95,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 4955
+                },
+                {
+                    "X": 3842,
+                    "Y": 4955
+                },
+                {
+                    "X": 3842,
+                    "Y": 5046
+                },
+                {
+                    "X": 368,
+                    "Y": 5046
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "11149 。中华..院.................. (339)14038 天津大学仁爱学院................ (550)",
+            "Type": "header",
+            "Confidence": 96,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 5058
+                },
+                {
+                    "X": 3842,
+                    "Y": 5058
+                },
+                {
+                    "X": 3842,
+                    "Y": 5150
+                },
+                {
+                    "X": 368,
+                    "Y": 5150
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "11232 北京信息科技大学.(340)14087.. 天津财经大学珠江学院.(552)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 5165
+                },
+                {
+                    "X": 3842,
+                    "Y": 5165
+                },
+                {
+                    "X": 3842,
+                    "Y": 5256
+                },
+                {
+                    "X": 368,
+                    "Y": 5256
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "11413 .中国矿业大学(北京................ (356)60057.. 天津科技大学(中外合作) ......... (570)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 5272
+                },
+                {
+                    "X": 3842,
+                    "Y": 5272
+                },
+                {
+                    "X": 3842,
+                    "Y": 5355
+                },
+                {
+                    "X": 368,
+                    "Y": 5355
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "11414 中国石油大学(北京).(356)河北",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 5381
+                },
+                {
+                    "X": 3842,
+                    "Y": 5381
+                },
+                {
+                    "X": 3842,
+                    "Y": 5460
+                },
+                {
+                    "X": 368,
+                    "Y": 5460
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "11415 中国地质大学(北京)(356)10075 河北大学...................... (30)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 368,
+                    "Y": 5484
+                },
+                {
+                    "X": 3842,
+                    "Y": 5484
+                },
+                {
+                    "X": 3842,
+                    "Y": 5567
+                },
+                {
+                    "X": 368,
+                    "Y": 5567
+                }
+            ],
+            "AdvancedInfo": "{}"
+        }
+    ],
+    "Data": "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",
+    "RequestId": "acc1b0ec-7db8-48b9-8f73-fa64c1acf6fe"
+}

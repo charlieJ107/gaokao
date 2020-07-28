@@ -1,0 +1,327 @@
+NotMatchError: in 25 json, with: [年份: 2019 院校代码: 000院校名称:北方工 业大学 录取批次:本科第一批
+NotMatchError: in 27 json, with: 「年份: 2019 院校代码:1 0012 院校名称:北京服装学院 录取批次:本科第二批
+NotMatchError: in 28 json, with: [ 年份:2019 院校代码: 1017 院校名称:北京石油化工学院 录取批次:本科第二批
+NotMatchError: in 29 json, with: 506:1.2| 494:1;492:1.
+NotMatchError: in 37 json, with: 581:1;77:1.
+NotMatchError: in 39 json, with: 670:2;66:1;663:2;61:1.
+NotMatchError: in 41 json, with: 521:1.1| 523:1.
+NotMatchError: in 42 json, with: 557:1;55:1;550:1.
+NotMatchError: in 44 json, with: 460:1.4上463:1;462:2;461:1.
+NotMatchError: in 49 json, with: 「年份: 2019 院校代码: I 0069院校名称: 天津商业大学 录取批次:本科第二批
+NotMatchError: in 51 json, with: 分数分布
+NotMatchError: in 54 json, with: 530:1.1 549:1;545:1;534:1;531:1;530:1;529:1;524:2.
+NotMatchError: in 89 json, with: 4531444:1;442:1;439:1.
+NotMatchError: in 90 json, with: 4 48:1 ;446:1; 432:1;430:1;425:1;422:1;417:1;
+NotMatchError: in 94 json, with: 441:1;38:1;433:2.
+NotMatchError: in 95 json, with: 392:1 ;88:1.
+NotMatchError: in 104 json, with: 4672466:2;464:2;462:1;
+NotMatchError: in 108 json, with: 561:1;58:1;557:1;556:2.
+NotMatchError: in 109 json, with: 61 3:1; 605:1.
+NotMatchError: in 120 json, with: 553:1;44:2.
+NotMatchError: in 125 json, with: 557:1; 55:1;553:1.
+NotMatchError: in 129 json, with: 452:1448.1;44:1;443:1.
+NotMatchError: in 130 json, with: 576:1.3 576:1;575:1;574:1.
+NotMatchError: in 132 json, with: 572:1;55:1;554:1;538:1.
+NotMatchError: in 145 json, with: 568:1.2 570:1;568:1.
+NotMatchError: in 146 json, with: 5595 :11 ;558:11; 557:9 ;556:12;
+NotMatchError: in 148 json, with: 559:1;56:2.
+NotMatchError: in 151 json, with: 557.1;55:1;554:2;
+NotMatchError: in 156 json, with: 526: l; 522: 1 ;520: 2; 517:1 ;511:1 ; 509:1;507:1;
+NotMatchError: in 181 json, with: 558:1 ;55: 1; 554: 2; 552:1;546:2;
+NotMatchError: in 182 json, with: 553:1;51:2;
+NotMatchError: in 188 json, with:  506:1._2 l 509:1;506:1.
+NotMatchError: in 192 json, with: 559:1;54:1;53:2;552:1.
+NotMatchError: in 196 json, with: 2「656:1;650:1.
+NotMatchError: in 197 json, with: 「 66:1;665:1;664:1.
+NotMatchError: in 199 json, with: 572:1 ;53:1.
+NotMatchError: in 205 json, with: 545:1;38:1;534:1;532:1;
+NotMatchError: in 212 json, with: 55329552:14;551:26;550:25;549:23;
+NotMatchError: in 219 json, with: 557 2:;55:1;554:1.
+NotMatchError: in 226 json, with: 年份: 2019 院校代码:10555 院校名 称:南华大学录取批次:本科第一批
+NotMatchError: in 228 json, with: 623 :2;22:1.
+NotMatchError: in 233 json, with: 分数分布
+NotMatchError: in 234 json, with:  515:1. 以裂实到铁监跟文人2 510:1;509:1.
+NotMatchError: in 235 json, with: 564:1;55:1;554:2;547:1.
+NotMatchError: in 236 json, with: 556 255:2.
+NotMatchError: in 237 json, with: 551:1. 53:25252151515+555515511;5
+NotMatchError: in 238 json, with: 556:555:3;554:3;553:1;552:13551:2;
+NotMatchError: in 239 json, with: 556:555:10;554:8;
+NotMatchError: in 243 json, with: 513.1511:2;510:2;,509:3;
+NotMatchError: in 244 json, with: 5631555:2;550:1;548:1;547:1;546:3;
+NotMatchError: in 245 json, with: 551;554:1;548:1;545:1;543:1;542:1;
+NotMatchError: in 247 json, with: 562:1557.1;555:1;550:2;548:1;546:2;
+NotMatchError: in 248 json, with: 514: 5; 51 3: 5; 512:7; 511:7;510:3;
+NotMatchError: in 249 json, with: 489:1;88:3;487:2;486:6;485:3;
+NotMatchError: in 251 json, with: 612:1;11:7;610:6; 609:15;
+NotMatchError: in 254 json, with: 4456;44:8;443:6;442:9;441:11;440:16;
+NotMatchError: in 259 json, with: 122 」514:1;508:1;505:1;504:1;495:2;493:1;490:1;
+NotMatchError: in 261 json, with: 570:1:;57.1;562555:1;554:1;553:2;552:1;
+NotMatchError: in 262 json, with: 551:1;50:2;549:1.
+NotMatchError: in 263 json, with: 560:7 ;59:13;
+NotMatchError: in 269 json, with: 15002499:1;498:1;497:2;
+NotMatchError: in 270 json, with: 3444:1;
+NotMatchError: in 273 json, with: 446:1445.2;44:1;443:4;442:1441:2;440:2;
+NotMatchError: in 275 json, with: 452:2;3
+NotMatchError: in 277 json, with: 448:3.36 480:1;479:1;476:1;475:1;474:1;473:1;472:2;
+NotMatchError: in 281 json, with: 523:11.55:1;554:1;551:1;548:1;547:1;546:2;544:2;
+NotMatchError: in 283 json, with: 512:511:2;510:2.
+NotMatchError: in 284 json, with: 4786477:7;476:2;
+NotMatchError: in 285 json, with: 423:6;22:1
+NotMatchError: in 287 json, with: 445:2;44:2.
+NotMatchError: in 288 json, with: 613:2. 61
+NotMatchError: in 290 json, with: 590:1;88:1;585:1.
+NotMatchError: in 291 json, with: 541:1._5 560:1;547:1;546:3.
+NotMatchError: in 293 json, with: 555:1;53:1;551:1;549:1; 547:3.
+NotMatchError: in 295 json, with: 556:555:4;554:6;553:3;
+NotMatchError: in 299 json, with: 「 523: l; 522 : 4 ;521:2; 520:2;519:1;518:4.
+NotMatchError: in 305 json, with: 543:2.4」553:1;547:1;546:1;545:1.
+NotMatchError: in 311 json, with: 561:1;55:1;552:1;545:1;544:2.
+NotMatchError: in 315 json, with: 447:1.21 449:1;445:1.
+NotMatchError: in 317 json, with: 461:2.4 L 463:1;459:1;457:1;455:1.
+NotMatchError: in 318 json, with: 553:1;52:1.
+NotMatchError: in 324 json, with: 5T 593:3;592:2.
+NotMatchError: in 325 json, with: 439:1;1 437.2.
+NotMatchError: in 330 json, with: 4
+NotMatchError: in 333 json, with: 553 :1 ;52:1; 51:1 ;541:2;540:1;
+NotMatchError: in 335 json, with: 467:1.5| 472:1;470:1;468:1;467:1;466.1.
+NotMatchError: in 339 json, with: 389:1 ;88: 1 ;380:1; 370:1;
+NotMatchError: in 340 json, with: 1453: 1;452:2; 451:1;450:1; 448:1;447:4;445:1.
+NotMatchError: in 341 json, with: 分数分布
+NotMatchError: in 345 json, with: 523:1; 52:1.
+NotMatchError: in 347 json, with: 417:2.10 429:1;424:1;421:2;419:1;418:3;417:2.
+NotMatchError: in 351 json, with: 7515:2;514:3;512:1;511:1.
+NotMatchError: in 352 json, with: 「 557:1; 55:1.
+NotMatchError: in 354 json, with: 443:1;33:1;409:1;408:1.
+NotMatchError: in 356 json, with: 分数分布
+NotMatchError: in 365 json, with: 45144814614441441:1;440:1;437.1;
+NotMatchError: in 370 json, with: 3443:1;
+NotMatchError: in 371 json, with: 445.2;44:3;443:1;
+NotMatchError: in 373 json, with: _ 分数分布
+NotMatchError: in 379 json, with: [ 年份: 2019 院校代码:11420院校名 称:河北金融学院 录取批次:本科第二批
+NotMatchError: in 380 json, with: 434:1;33:1;
+NotMatchError: in 383 json, with: 年份: 2019院校代码:11 458 院校名称:上海电机学院 录取批次:本科第二批
+NotMatchError: in 386 json, with: 6 463:1;455:1;454:1;453:1;448:1;444:1.
+NotMatchError: in 392 json, with: 1442:1;440:3;437:1;433:1;432:3;
+NotMatchError: in 401 json, with: 447:5;46:1;445:7444:5;443:6;442:11;441:14;
+NotMatchError: in 403 json, with: 512:1;11:1;
+NotMatchError: in 404 json, with: 517:1. 出心☐其立立牌1世广州
+NotMatchError: in 405 json, with: 4724462444:2;
+NotMatchError: in 415 json, with: 5443:3;442:1;441:1;440:3;439:2;
+NotMatchError: in 422 json, with: 60 547:1 ;529:1 ;528:1 ; 527:1 ;517:1 ;516:1;515:1;
+NotMatchError: in 423 json, with: 4451444:1;
+NotMatchError: in 424 json, with: 445:1; 44:1;443:1; 442:1;441:2;440:1;
+NotMatchError: in 426 json, with: 391:1;88:1.
+NotMatchError: in 428 json, with: 560:1;59:1.
+NotMatchError: in 429 json, with: 447:4;46:5
+NotMatchError: in 430 json, with: 分数分布
+NotMatchError: in 444 json, with: 分数分布
+NotMatchError: in 447 json, with: 410:1;88:1.
+NotMatchError: in 456 json, with: 4461444:1;425:1;418:1;400:1;383:1;
+NotMatchError: in 458 json, with: 400:1;32:1388:1.
+NotMatchError: in 466 json, with: 393:2;88:1.
+NotMatchError: in 469 json, with:  394:1;88:1.
+NotMatchError: in 478 json, with: 5449:1;413:1;410:1;407:1;405:1.
+NotMatchError: in 481 json, with: 402: l; 400:4;397:1; 396:3;395:1; 394:1; 393:2;
+NotMatchError: in 489 json, with: 392:1 ;88:1.
+NotMatchError: in 493 json, with: 450:1 ;47:1 ;435.1;432 :1;428:1;
+NotMatchError: in 495 json, with: 425 :2;88:1.
+NotMatchError: in 501 json, with: 444:1; 43:1; 439:1 ;436:1;433:1;431:1;
+NotMatchError: in 505 json, with: 490:1;88:1.
+NotMatchError: in 512 json, with: 401444:1.
+NotMatchError: in 514 json, with: 分数分布
+NotMatchError: in 515 json, with: 3991398:2;397:1;
+NotMatchError: in 516 json, with: 447 34414242324422441:2;
+NotMatchError: in 517 json, with: 4453444:1;
+NotMatchError: in 518 json, with: 3931;88:1;381:1;380:3;379:1;378:2;
+NotMatchError: in 521 json, with: 445:8;44:13443:6;442:6;441:9;440:17;439:13;
+NotMatchError: in 523 json, with: 466:2; 1
+NotMatchError: in 525 json, with: 382:7;81:6;
+NotMatchError: in 527 json, with: 445:6;44:5;443:8;442:8;441:7;440:8;439:10;
+NotMatchError: in 528 json, with: 384:1;83:3;382:2;381:5;380:2;379:5;
+NotMatchError: in 529 json, with: 391:13;88:2;385:2;384:1381:1;
+NotMatchError: in 530 json, with: 389:13;88:1;380:1;377:1;374:2;373:2;
+NotMatchError: in 531 json, with: 389:13;88:1;387:1;386:2;
+NotMatchError: in 534 json, with: 6444:1;420:1;415:1;413:1;412:1;411:1.
+NotMatchError: in 535 json, with: 458:1;55:2;448:1;
+NotMatchError: in 537 json, with: 390:1;84:1.
+NotMatchError: in 538 json, with: 3
+NotMatchError: in 541 json, with: 471:1;66:2.
+NotMatchError: in 549 json, with: 365:2.45 467:1;410:1;407:1;404:1;400:1;398:2;396:1;
+NotMatchError: in 550 json, with: 389.13;88:1;
+NotMatchError: in 551 json, with: 465.1491444:1;443:1;
+NotMatchError: in 553 json, with: 2456:1;441:1.
+NotMatchError: in 555 json, with: 2
+NotMatchError: in 557 json, with: 415:1414.1;413:1;407 :2;402:1;
+NotMatchError: in 564 json, with: 2「403:1;402:1.
+NotMatchError: in 567 json, with: 418:3.3 464:1;422:1;418.1
+NotMatchError: in 571 json, with: 389:1;88:1.
+NotMatchError: in 577 json, with: [年份: 2019 院校代码:14207院校名 称:上海财经大学浙江学院 录取批次:本科第二批
+NotMatchError: in 583 json, with: 389:1;88:2;
+NotMatchError: in 590 json, with: 566:1;51:1;534:1.
+NotMatchError: in 592 json, with: [ 分数分布
+NotMatchError: in 595 json, with: 445:.3;44:1;442:1;441:2;440:2;439 :2;438:2;436:1;
+NotMatchError: in 597 json, with: 400:1.6」514:1;506:1;505:1;485:1;468:1;400:1.
+NotMatchError: in 598 json, with: 4463444:3;442:1;441:6;440:4;439:1;
+NotMatchError: in 599 json, with: 4453444:1;443:2;
+NotMatchError: in 600 json, with: 416: l; 392:1; 389:1.
+NotMatchError: in 601 json, with: 445:444:2;443:1;442:3;439:1;
+NotMatchError: in 604 json, with: _ 年份:2019 院校代码: 71825院校 名称:桂林航天工业学院(应用型本科)录取批次:本科第二批
+NotMatchError: in 615 json, with: 338:7;37:13;
+NotMatchError: in 617 json, with: 1333:1;327:1;326:1;325:1.
+NotMatchError: in 618 json, with: 384:1;83:3;
+NotMatchError: in 619 json, with: 44 6: 1 ;401:1 ;384: 1 ;378:1;377:1;369:1;364:1;
+NotMatchError: in 620 json, with: 341:2335.13;33:2;
+NotMatchError: in 621 json, with: 1338:3;336:1;334:2;
+NotMatchError: in 623 json, with: 332: 18; 31: 18 ;330: 13 ;329 :9;328:12;
+NotMatchError: in 624 json, with: 339338:1;337:1;336:2;335:3;334:1;333:4;
+NotMatchError: in 626 json, with: 392;1388:1;384:2;381:1;376:1;
+NotMatchError: in 627 json, with: 378.1377.1;375:1;
+NotMatchError: in 629 json, with: 389;388:4;387:4;386:6;
+NotMatchError: in 633 json, with: 389:1388.3;
+NotMatchError: in 645 json, with: 3343;33:2;332:4;331:9;330:3;329:5;
+NotMatchError: in 646 json, with: 33513;33:2;
+NotMatchError: in 647 json, with: 333:1;31:1;326:1;323:2;322:1;321:1;
+NotMatchError: in 648 json, with: 338:23;33:1;330:2;328:1;325:1;318:2;316:1;
+NotMatchError: in 656 json, with: 3 272:1;248:1;217:1.
+NotMatchError: in 658 json, with: 202:1.1 372:1.
+NotMatchError: in 659 json, with: 241:1;28:1;235:1;234:1;
+NotMatchError: in 660 json, with: 268:1.0
+NotMatchError: in 661 json, with: 272:1.34.1;33:1;2841.
+NotMatchError: in 663 json, with: 252:1;11:1.
+NotMatchError: in 665 json, with: 375:1 ;33:1.
+NotMatchError: in 668 json, with: [年份: 2019 院校代码: 1315院校 名称:闽西职业技术学院 录取批次:高职高专普通批
+NotMatchError: in 669 json, with: 354:1 ;34:1 ;328:2;326:1;320:1;313:2;
+NotMatchError: in 671 json, with: 280:127:1;276:1;
+NotMatchError: in 676 json, with: 3902;88:1;
+NotMatchError: in 677 json, with: 447:1;44:1;441:1;440:2;439:2;
+NotMatchError: in 678 json, with: 389:1;88:2;387:1;384:2;383:1;382:1;
+NotMatchError: in 679 json, with: 384:13;83:1.
+NotMatchError: in 688 json, with: 335:1;34:3;329:1;328:2;326:1;325:1;324:2;
+NotMatchError: in 689 json, with: 340:1;39:1;338:1;
+NotMatchError: in 690 json, with: 2333:1;332:1;
+NotMatchError: in 691 json, with: 341:13;33:3;332:3;329:2;327:2;
+NotMatchError: in 693 json, with: 268:2.33:1 ;328:1;327:1;315:1 ;305:1;303:1;300:2.
+NotMatchError: in 695 json, with: 352:1;33:1;309:1;297:1;294:1;290:1;
+NotMatchError: in 696 json, with: 3363379336.11;335:14;334:9;
+NotMatchError: in 697 json, with: 336:1;33.2;330:1;327 :2;325:2;323:3;322:3;321:1
+NotMatchError: in 699 json, with: 325:1. 33:1.
+NotMatchError: in 700 json, with:  36113;33:1;322:2;321:1;318:1;306:1;303:1;
+NotMatchError: in 701 json, with: 300:2.33:1;327:1;320:1;312:1;311:3;308:2;301:1;
+NotMatchError: in 702 json, with: 337:1;35:1;334:1;33:2;332:2;
+NotMatchError: in 703 json, with: 335:34;34:23;
+NotMatchError: in 704 json, with: 337:1;33:2;330:1.
+NotMatchError: in 709 json, with: 392:1381.3;380:2;378:2;
+NotMatchError: in 710 json, with: 1381:1;380:1;3792;378.1.
+NotMatchError: in 711 json, with: 4 10: 2;409 :3 ; 408: 3; 407:1; 406:1;405:6;404:1;
+NotMatchError: in 712 json, with: 「 335: 2; 33:.2;331:1;330:2; 329:1;326:2;325:1;
+NotMatchError: in 713 json, with: 334:333:1;331:1;330:5;329:1;328:4;326:1;
+NotMatchError: in 714 json, with: 338:1;37:3.
+NotMatchError: in 715 json, with: 337:13;33:1;328:1;327:1;322:1;320:1;
+NotMatchError: in 717 json, with: 328:1.3| 33:1;321:2.
+NotMatchError: in 721 json, with: 331:1;30:1;329:1;
+NotMatchError: in 722 json, with: 337:1 ;34:1.
+NotMatchError: in 723 json, with: 338:13:1;325:1;314:1;310:1;
+NotMatchError: in 724 json, with: 334:331:2;
+NotMatchError: in 729 json, with: 243:1.1 | 373.1.
+NotMatchError: in 731 json, with: 334:1;33:1.
+NotMatchError: in 733 json, with:  401:1;88:1 ;384:1;381:1;375:2;374:1;371:2;
+NotMatchError: in 734 json, with: 3661;33:1;332:1;328:1;324:1;315:1;311:1;
+NotMatchError: in 737 json, with: 2373:1;336:1.
+NotMatchError: in 741 json, with:  334:13;33:2;332:3;331:2;330:2;328:2;327:1;
+NotMatchError: in 745 json, with: 253:1.36:1333:1;332:1;314:2;313:1;307:1;306:1;
+NotMatchError: in 746 json, with: 357:1;31:1336.1333:1;332:1;331:1;
+NotMatchError: in 747 json, with: 301:1 ;99:1 ;297:1;296:1;294:2;
+NotMatchError: in 749 json, with: 1333:1;332:2;329:1;
+NotMatchError: in 751 json, with: 337 :336:3 335334:4333:332:331:6;
+NotMatchError: in 754 json, with: 312:38;11:39;310:26;
+NotMatchError: in 755 json, with: 334:7;33:7;
+NotMatchError: in 756 json, with: 345:1;32:134302336133233:1332:2;331:1;
+NotMatchError: in 758 json, with: 1337.1;33:1;
+NotMatchError: in 759 json, with: 334:7;33:14;
+NotMatchError: in 760 json, with: 332:1;31:2;329:1;327:3;326:1;324:1;323:1;
+NotMatchError: in 762 json, with: 332:1;30:1;316:1;302:1;301:1;293:1;
+NotMatchError: in 763 json, with: 1333:1;332:1;330:2;
+NotMatchError: in 765 json, with: 340:1 ;3:1333:13 ;32:1;331:1;324:1;
+NotMatchError: in 766 json, with: 336:333:3;332:4;331:2;330:1;329:2;
+NotMatchError: in 767 json, with: 336:1 ;3:1333:2;328:2;327 :2; 326:1;
+NotMatchError: in 768 json, with: 389:7;88:7;387:5;
+NotMatchError: in 769 json, with: 390:1;88:1;383:1;382:1;381:1;379:2;
+NotMatchError: in 770 json, with: 335:1;4:1.
+NotMatchError: in 771 json, with: 396:1;33:2;381:1;380:2;
+NotMatchError: in 773 json, with: 371:1 ;31:1335153441333:1;:329:1;328:1;
+NotMatchError: in 784 json, with: 1
+NotMatchError: in 806 json, with: [年份:2019 院校代码:12772院校 名称河源职业技术学院 录取批次:高职高专普通批
+NotMatchError: in 807 json, with: 298:1; 1
+NotMatchError: in 809 json, with: 336:1 ;35:1;327:1;326:1;319:1;315:1;
+NotMatchError: in 812 json, with: 293:1.摩时
+NotMatchError: in 814 json, with: [年份: 2019 院校代码: 12830院校 名称:陕西交通职业技术学院 录取批次:高职高专普通批
+NotMatchError: in 815 json, with: 325:1.5| 329:1;327:1;290:1;285:1;244:1.
+NotMatchError: in 821 json, with: 年份:2019 院校代码:12878院校 名称:丽水职业技术学院 录取批次:高职高专普通批
+NotMatchError: in 822 json, with: 250:1.事算国能
+NotMatchError: in 827 json, with: [ 年份:2019 院校代码:12913 院校名 称:上海邦德职业技术学院 录取批次:高职高专普通批
+NotMatchError: in 836 json, with: 337:1;33:1;332:3;330:3.
+NotMatchError: in 837 json, with: 336:2;33:2;332:1;
+NotMatchError: in 853 json, with: 分数分布
+NotMatchError: in 859 json, with: 340:1 ;38:1;325:1;317:1;
+NotMatchError: in 860 json, with: 336:1;35:1;334:2;333:2;332:7;
+NotMatchError: in 861 json, with: 335:1;33:1;
+NotMatchError: in 862 json, with: 334:1;33:2;332:1;330:1;329:3;327:2;326:5;325:3;
+NotMatchError: in 863 json, with: 340:5;38:8;3373;336:4335:3;334333:4;332:3.
+NotMatchError: in 880 json, with: [年份: 2019 院校代码: 13522院校 名称:广西现代职业技术学院 录取批次:高职高专普通批
+NotMatchError: in 885 json, with: 342:13361;33:1;332:1;
+NotMatchError: in 887 json, with: 1222:1.
+NotMatchError: in 899 json, with: 年份: 2019 _院校代码:1 3747 院校名称:上海电影艺术职业学院 录取批次:高职高专普通批
+NotMatchError: in 902 json, with: 年份: 2019 院校代码: 13759院校名 称:云南城市建设职业学院 录取批次:高职高专普通批
+NotMatchError: in 905 json, with: 年份: 2019院校代码: 13782二院校 名称:商丘医学高等专科学校 录取批次:高职高专普通批
+NotMatchError: in 908 json, with: 年份:2019 院校代码: i 3810院校名 称:肇庆医学高等专科学校 录取批次:高职高专普通批
+NotMatchError: in 909 json, with: 361:1;34:1;33:2;329:1;324:1.
+NotMatchError: in 911 json, with: 247:1.33:1;330:1;318:1;314:1;298:2;292:1;290:1;
+NotMatchError: in 915 json, with: 4338:1;337:1;335:3;33:1;
+NotMatchError: in 917 json, with: 224:1 ;2:1222:1;209:1;206:2;
+NotMatchError: in 921 json, with: 339:1;33:1;326:1;321:1;313:1;307:1;301:1;
+NotMatchError: in 923 json, with: 347:13;38:1;334:1;332:1;
+NotMatchError: in 925 json, with: 322:1321.1;320:1;
+NotMatchError: in 927 json, with: [年份: 2019院校代码: 1 3868 院校名称:江西工程职业学院 录取批次:高职高专普通批
+NotMatchError: in 933 json, with: 225:222:1;213:1;210:1;205:1;
+NotMatchError: in 935 json, with: 232:12291;22:2;
+NotMatchError: in 936 json, with: 4333:5;332:8;331:4;330:7;
+NotMatchError: in 939 json, with: 256:1 :55.1;252:1;
+NotMatchError: in 940 json, with: 335:2;33:1;332:2;331:1;330:2;329:2;328:2;327:2;
+NotMatchError: in 941 json, with: [年份 :2019 院校代码:1 3922院校名称: 湖南九嶷职业技术学院 录取批次:高职高专普通批
+NotMatchError: in 942 json, with: 342:1;36:1;335:1.
+NotMatchError: in 952 json, with: 227:1.进苦业产区应目商
+NotMatchError: in 962 json, with: 分数分布
+NotMatchError: in 963 json, with: 280:2.33:1;327 :1;320:1;319:1;318:1;316:1;309:1;
+NotMatchError: in 964 json, with: 3333:3;332:2;331:1;
+NotMatchError: in 965 json, with: 337:1;36:1335.1;33:1;331:1;327:2;325:1;324:1;
+NotMatchError: in 966 json, with: 334: 2 ;33:5; 332:7;
+NotMatchError: in 967 json, with: 193:1.30| 317:1;311:1;276:2;275:1;274:1;273:1;265:1; ]
+NotMatchError: in 979 json, with: 226122:1;212:1;197:1;194:1;
+NotMatchError: in 981 json, with: 365.1333:1;317:1;315:1;304:1;303:1;
+NotMatchError: in 986 json, with: 1222:1;1941.
+NotMatchError: in 987 json, with: 239:1;28:1;218:1;211:1;
+NotMatchError: in 988 json, with: 201:1 ;00:1; 199:1;185:2;181:1.
+NotMatchError: in 989 json, with: 310:122:1;213:1;189:1;186:1;182:1.
+NotMatchError: in 991 json, with: 2231;22:1.
+NotMatchError: in 992 json, with: 223:222:1;221:2.
+NotMatchError: in 996 json, with: 338:2;33:1;
+NotMatchError: in 999 json, with: 370:1 ; 33:1; 330:1; 324:1; 321:1;312:1;305:1;
+NotMatchError: in 1000 json, with: 11222:5;221:3;220:9;219:10;
+NotMatchError: in 1001 json, with: 247:1 ;21:1;183:1.
+NotMatchError: in 1004 json, with: 316:1 3; 315: 13; 314: 13;313:7.
+NotMatchError: in 1012 json, with: 2661222:1.
+NotMatchError: in 1016 json, with: 223:2;2
+NotMatchError: in 1017 json, with: 337:1;33:1;325:1;320:1;298:1;
+NotMatchError: in 1020 json, with: 1271:1.
+NotMatchError: in 1027 json, with: 235:1.33:1;290:1;287:1;283:1;274:1;268:1;263:1;
+NotMatchError: in 1028 json, with: 341:4;37:2;
+NotMatchError: in 1029 json, with: 293:1.3 l 393:1;378:1 ;358:1.
+NotMatchError: in 1033 json, with: 226:1 :23:1;215:1;-
+NotMatchError: in 1035 json, with: 336:1;35:1333:1;330:1;
+NotMatchError: in 1039 json, with: 341:1;32:1;314:1;307:3;306:1;305:1;
+NotMatchError: in 1041 json, with: 2263:1;234:1.
+NotMatchError: in 1052 json, with: 222:7 ;21:9:220:8.
+NotMatchError: in 1057 json, with: 334:1;33:332:2;330:1;:329:4;328:5;327:2;326:1;
+NotMatchError: in 1059 json, with: 5
+NotMatchError: in 1061 json, with: 224:1 ;20:1;219:1;216:1;215:2;
+NotMatchError: in 1064 json, with: 334:13;33:1;332:1;

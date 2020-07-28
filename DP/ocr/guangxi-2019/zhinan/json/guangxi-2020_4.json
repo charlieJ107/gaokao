@@ -1,0 +1,1434 @@
+{
+    "TextDetections": [
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10160 锦州医科大学(55)10202 通化师范学院(66)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 386
+                },
+                {
+                    "X": 3822,
+                    "Y": 386
+                },
+                {
+                    "X": 3822,
+                    "Y": 466
+                },
+                {
+                    "X": 344,
+                    "Y": 466
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10161 大连医科大学(55)10203 吉林师范大学(67)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 491
+                },
+                {
+                    "X": 3822,
+                    "Y": 491
+                },
+                {
+                    "X": 3822,
+                    "Y": 572
+                },
+                {
+                    "X": 344,
+                    "Y": 572
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10162 .辽宁中医药大学(55)10204 吉林工程技术师范学院(67)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 596
+                },
+                {
+                    "X": 3822,
+                    "Y": 596
+                },
+                {
+                    "X": 3822,
+                    "Y": 676
+                },
+                {
+                    "X": 344,
+                    "Y": 676
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10163 沈阳药科大学10205 长春师范大学(68)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 701
+                },
+                {
+                    "X": 3822,
+                    "Y": 701
+                },
+                {
+                    "X": 3822,
+                    "Y": 777
+                },
+                {
+                    "X": 344,
+                    "Y": 777
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10164 沈阳医学院(56)10206 白城师范学院(69)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 802
+                },
+                {
+                    "X": 3822,
+                    "Y": 802
+                },
+                {
+                    "X": 3822,
+                    "Y": 883
+                },
+                {
+                    "X": 344,
+                    "Y": 883
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10165 辽宁师范大学(57)10207 吉林财经大学(69)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 907
+                },
+                {
+                    "X": 3822,
+                    "Y": 907
+                },
+                {
+                    "X": 3822,
+                    "Y": 988
+                },
+                {
+                    "X": 344,
+                    "Y": 988
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10166 沈阳师范大学(57)10964 吉林外国语大学.(322)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1012
+                },
+                {
+                    "X": 3822,
+                    "Y": 1012
+                },
+                {
+                    "X": 3822,
+                    "Y": 1092
+                },
+                {
+                    "X": 344,
+                    "Y": 1092
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10167. 渤海大学.........11261. 吉林工商学院.(341)",
+            "Type": "header",
+            "Confidence": 95,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1116
+                },
+                {
+                    "X": 3822,
+                    "Y": 1116
+                },
+                {
+                    "X": 3822,
+                    "Y": 1196
+                },
+                {
+                    "X": 344,
+                    "Y": 1196
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10169 鞍山师范学院.................... . (58)11437. 长春工程学院(359)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1221
+                },
+                {
+                    "X": 3822,
+                    "Y": 1221
+                },
+                {
+                    "X": 3822,
+                    "Y": 1299
+                },
+                {
+                    "X": 344,
+                    "Y": 1299
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10172 大连外国语大学11439 吉林农业科技学院..(360)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1324
+                },
+                {
+                    "X": 3822,
+                    "Y": 1324
+                },
+                {
+                    "X": 3822,
+                    "Y": 1405
+                },
+                {
+                    "X": 344,
+                    "Y": 1405
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10173 东北财经大学.................. (60)11441 吉林警察学院.......",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1428
+                },
+                {
+                    "X": 3822,
+                    "Y": 1428
+                },
+                {
+                    "X": 3822,
+                    "Y": 1506
+                },
+                {
+                    "X": 344,
+                    "Y": 1506
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10841 辽宁对外经贸学院..(316)11726 长春大学.......",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1532
+                },
+                {
+                    "X": 3822,
+                    "Y": 1532
+                },
+                {
+                    "X": 3822,
+                    "Y": 1615
+                },
+                {
+                    "X": 344,
+                    "Y": 1615
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "11035 沈阳大学.......(323)13600 长春光华学院................... (485)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1637
+                },
+                {
+                    "X": 3822,
+                    "Y": 1637
+                },
+                {
+                    "X": 3822,
+                    "Y": 1714
+                },
+                {
+                    "X": 344,
+                    "Y": 1714
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "(341)13603 长春财经学院.",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1740
+                },
+                {
+                    "X": 3822,
+                    "Y": 1740
+                },
+                {
+                    "X": 3822,
+                    "Y": 1820
+                },
+                {
+                    "X": 344,
+                    "Y": 1820
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "11430 辽宁科技学院.(358)13605 长春建筑学院............ (486)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1845
+                },
+                {
+                    "X": 3822,
+                    "Y": 1845
+                },
+                {
+                    "X": 3822,
+                    "Y": 1926
+                },
+                {
+                    "X": 344,
+                    "Y": 1926
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "11632 沈阳工程学院(387)13606 .长春科技学院..(486)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 1950
+                },
+                {
+                    "X": 3822,
+                    "Y": 1950
+                },
+                {
+                    "X": 3822,
+                    "Y": 2029
+                },
+                {
+                    "X": 344,
+                    "Y": 2029
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "11779 辽东学院.......(397)13622- 吉林师范大学博达学院(488)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2054
+                },
+                {
+                    "X": 3822,
+                    "Y": 2054
+                },
+                {
+                    "X": 3822,
+                    "Y": 2135
+                },
+                {
+                    "X": 344,
+                    "Y": 2135
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "12026 大连民族大学.(415)13623 长春大学旅游学院(488)",
+            "Type": "header",
+            "Confidence": 94,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2159
+                },
+                {
+                    "X": 3822,
+                    "Y": 2159
+                },
+                {
+                    "X": 3822,
+                    "Y": 2238
+                },
+                {
+                    "X": 344,
+                    "Y": 2238
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13198 大连理工大学城市学院..(442)13662 东北师范大学人文学院.(515)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2262
+                },
+                {
+                    "X": 3822,
+                    "Y": 2262
+                },
+                {
+                    "X": 3822,
+                    "Y": 2342
+                },
+                {
+                    "X": 344,
+                    "Y": 2342
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13201 沈阳工学院.(443)13706 吉林医药学院.(522)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2366
+                },
+                {
+                    "X": 3822,
+                    "Y": 2366
+                },
+                {
+                    "X": 3822,
+                    "Y": 2447
+                },
+                {
+                    "X": 344,
+                    "Y": 2447
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13203 大连工业大学艺术与信息工程学院.... (443)60199- 长春中医药大学(中外合作).(571)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2470
+                },
+                {
+                    "X": 3822,
+                    "Y": 2470
+                },
+                {
+                    "X": 3822,
+                    "Y": 2552
+                },
+                {
+                    "X": 344,
+                    "Y": 2552
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13208 沈阳城市建设学院.(443)60203 吉林师范大学(中外合作).(571)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2575
+                },
+                {
+                    "X": 3822,
+                    "Y": 2575
+                },
+                {
+                    "X": 3822,
+                    "Y": 2658
+                },
+                {
+                    "X": 344,
+                    "Y": 2658
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13212 大连医科大学中山学院.(444)61437 .长春工程学院(中外合作)(577)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2681
+                },
+                {
+                    "X": 3822,
+                    "Y": 2681
+                },
+                {
+                    "X": 3822,
+                    "Y": 2760
+                },
+                {
+                    "X": 344,
+                    "Y": 2760
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13213 锦州医科大学医疗学院.(444)61726 长春大学(中外合作).(578)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2783
+                },
+                {
+                    "X": 3822,
+                    "Y": 2783
+                },
+                {
+                    "X": 3822,
+                    "Y": 2866
+                },
+                {
+                    "X": 344,
+                    "Y": 2866
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13215 辽宁师范大学海华学院.(444)黑龙江",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2889
+                },
+                {
+                    "X": 3822,
+                    "Y": 2889
+                },
+                {
+                    "X": 3822,
+                    "Y": 2970
+                },
+                {
+                    "X": 344,
+                    "Y": 2970
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13217 辽宁理工学院..(444)10212 黑龙江大学(70)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 2992
+                },
+                {
+                    "X": 3822,
+                    "Y": 2992
+                },
+                {
+                    "X": 3822,
+                    "Y": 3074
+                },
+                {
+                    "X": 344,
+                    "Y": 3074
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13218- 大连财经学院.. (445)10213 哈尔滨工业大学(71)",
+            "Type": "header",
+            "Confidence": 96,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 3098
+                },
+                {
+                    "X": 3822,
+                    "Y": 3098
+                },
+                {
+                    "X": 3822,
+                    "Y": 3177
+                },
+                {
+                    "X": 344,
+                    "Y": 3177
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13220 沈阳城市学院(445)10214 哈尔滨理工大学(71)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 3203
+                },
+                {
+                    "X": 3822,
+                    "Y": 3203
+                },
+                {
+                    "X": 3822,
+                    "Y": 3283
+                },
+                {
+                    "X": 344,
+                    "Y": 3283
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13609 辽宁中医药大学杏林学院..(486)10217 哈尔滨工程大学(72)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 3307
+                },
+                {
+                    "X": 3822,
+                    "Y": 3307
+                },
+                {
+                    "X": 3822,
+                    "Y": 3388
+                },
+                {
+                    "X": 344,
+                    "Y": 3388
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13610 辽宁何氏医学院.....(487)10219 . .黑龙江科技大学(73)",
+            "Type": "header",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 3411
+                },
+                {
+                    "X": 3822,
+                    "Y": 3411
+                },
+                {
+                    "X": 3822,
+                    "Y": 3492
+                },
+                {
+                    "X": 344,
+                    "Y": 3492
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13621 沈阳科技学院.(487)10220 东北石油大学(73)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 3514
+                },
+                {
+                    "X": 3822,
+                    "Y": 3514
+                },
+                {
+                    "X": 3822,
+                    "Y": 3594
+                },
+                {
+                    "X": 344,
+                    "Y": 3594
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13631 大连东软信息学院.(490)10222一 佳木斯大学....(74)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 3619
+                },
+                {
+                    "X": 3822,
+                    "Y": 3619
+                },
+                {
+                    "X": 3822,
+                    "Y": 3699
+                },
+                {
+                    "X": 344,
+                    "Y": 3699
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13900 辽宁财贸学院.(536)10223 黑龙江八一农垦大学(75)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 3723
+                },
+                {
+                    "X": 3822,
+                    "Y": 3723
+                },
+                {
+                    "X": 3822,
+                    "Y": 3803
+                },
+                {
+                    "X": 344,
+                    "Y": 3803
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "13957、 辽宁传媒学院................... (540)10224 东北农业大学.............. (75)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 3827
+                },
+                {
+                    "X": 3822,
+                    "Y": 3827
+                },
+                {
+                    "X": 3822,
+                    "Y": 3906
+                },
+                {
+                    "X": 344,
+                    "Y": 3906
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "14435 营☐理工学院.(559)10225 东北林业大学(76)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 3931
+                },
+                {
+                    "X": 3822,
+                    "Y": 3931
+                },
+                {
+                    "X": 3822,
+                    "Y": 4014
+                },
+                {
+                    "X": 344,
+                    "Y": 4014
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "19141 大连理工大学(盘锦校区........... (566)10226 哈尔滨医科大学.................. (77)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4036
+                },
+                {
+                    "X": 3822,
+                    "Y": 4036
+                },
+                {
+                    "X": 3822,
+                    "Y": 4117
+                },
+                {
+                    "X": 344,
+                    "Y": 4117
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "60148 辽宁石油化工大学(中外合作).10228 黑龙江中医药大学(78)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4140
+                },
+                {
+                    "X": 3822,
+                    "Y": 4140
+                },
+                {
+                    "X": 3822,
+                    "Y": 4222
+                },
+                {
+                    "X": 344,
+                    "Y": 4222
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "60173 东北财经大学(中外合作) ............ (571)10229 牡丹江医学院................... (79)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4243
+                },
+                {
+                    "X": 3822,
+                    "Y": 4243
+                },
+                {
+                    "X": 3822,
+                    "Y": 4323
+                },
+                {
+                    "X": 344,
+                    "Y": 4323
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "吉林10231 哈尔滨师范大学. (79)",
+            "Type": "header",
+            "Confidence": 95,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4351
+                },
+                {
+                    "X": 3822,
+                    "Y": 4351
+                },
+                {
+                    "X": 3822,
+                    "Y": 4429
+                },
+                {
+                    "X": 344,
+                    "Y": 4429
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10183 吉林大学....................... : (60)10232 齐齐哈尔大学....(80)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4455
+                },
+                {
+                    "X": 3822,
+                    "Y": 4455
+                },
+                {
+                    "X": 3822,
+                    "Y": 4535
+                },
+                {
+                    "X": 344,
+                    "Y": 4535
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10184 延边大学(61)10233 牡丹江师范学院(81)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4559
+                },
+                {
+                    "X": 3822,
+                    "Y": 4559
+                },
+                {
+                    "X": 3822,
+                    "Y": 4639
+                },
+                {
+                    "X": 344,
+                    "Y": 4639
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10186 长春理工大学(61)10234 哈尔滨学院..........(81)",
+            "Type": "header",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4662
+                },
+                {
+                    "X": 3822,
+                    "Y": 4662
+                },
+                {
+                    "X": 3822,
+                    "Y": 4741
+                },
+                {
+                    "X": 344,
+                    "Y": 4741
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10188 东北电力大学(62)10235 大庆师范学院(82)",
+            "Type": "header",
+            "Confidence": 97,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4765
+                },
+                {
+                    "X": 3822,
+                    "Y": 4765
+                },
+                {
+                    "X": 3822,
+                    "Y": 4847
+                },
+                {
+                    "X": 344,
+                    "Y": 4847
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10190 长春工业大学(62)10236 绥化学院.........(82)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4872
+                },
+                {
+                    "X": 3822,
+                    "Y": 4872
+                },
+                {
+                    "X": 3822,
+                    "Y": 4949
+                },
+                {
+                    "X": 344,
+                    "Y": 4949
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10191 吉林建筑大学(63)10240 哈尔滨商业大学(83)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 4975
+                },
+                {
+                    "X": 3822,
+                    "Y": 4975
+                },
+                {
+                    "X": 3822,
+                    "Y": 5056
+                },
+                {
+                    "X": 344,
+                    "Y": 5056
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10192 吉林化工学院(63)10242 哈尔滨体育学院(84)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 5078
+                },
+                {
+                    "X": 3822,
+                    "Y": 5078
+                },
+                {
+                    "X": 3822,
+                    "Y": 5159
+                },
+                {
+                    "X": 344,
+                    "Y": 5159
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10193 吉林农业大学(64)10245 哈尔滨金融学院",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 5183
+                },
+                {
+                    "X": 3822,
+                    "Y": 5183
+                },
+                {
+                    "X": 3822,
+                    "Y": 5263
+                },
+                {
+                    "X": 344,
+                    "Y": 5263
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10199 长春中医药大学.(65)11230. 齐齐哈尔医学院.(340)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 5289
+                },
+                {
+                    "X": 3822,
+                    "Y": 5289
+                },
+                {
+                    "X": 3822,
+                    "Y": 5370
+                },
+                {
+                    "X": 344,
+                    "Y": 5370
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10200 东北师范大学(65)11445 黑龙江工业学院..(361)",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 5393
+                },
+                {
+                    "X": 3822,
+                    "Y": 5393
+                },
+                {
+                    "X": 3822,
+                    "Y": 5475
+                },
+                {
+                    "X": 344,
+                    "Y": 5475
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "10201 北华大学.....(66)11635- 哈尔滨信息工程学院.(388)",
+            "Type": "header",
+            "Confidence": 98,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 5496
+                },
+                {
+                    "X": 3822,
+                    "Y": 5496
+                },
+                {
+                    "X": 3822,
+                    "Y": 5577
+                },
+                {
+                    "X": 344,
+                    "Y": 5577
+                }
+            ],
+            "AdvancedInfo": "{}"
+        },
+        {
+            "ColTl": -1,
+            "RowTl": -1,
+            "ColBr": -1,
+            "RowBr": -1,
+            "Text": "3",
+            "Type": "header",
+            "Confidence": 99,
+            "Polygon": [
+                {
+                    "X": 344,
+                    "Y": 5690
+                },
+                {
+                    "X": 3822,
+                    "Y": 5690
+                },
+                {
+                    "X": 3822,
+                    "Y": 5756
+                },
+                {
+                    "X": 344,
+                    "Y": 5756
+                }
+            ],
+            "AdvancedInfo": "{}"
+        }
+    ],
+    "Data": "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",
+    "RequestId": "fbc42218-ae2b-462d-8df2-61c526912aaf"
+}
