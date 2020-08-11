@@ -24,18 +24,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="continuPage.py" />
     <Compile Include="Data_Processing.py" />
     <Compile Include="ocr_gx_2019_table.py" />
     <Compile Include="ocr_table.py" />
     <Compile Include="score_rank\addItem.py" />
     <Compile Include="solveException.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="writeMssql_score_rank_table.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="write_mssql_score_rank_item.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -44,7 +37,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="err.log" />
-    <Content Include="guangxi-2020.pdf" />
     <Content Include="ocr\guangxi-2019\zhinan\json\guangxi-2020_0.json" />
     <Content Include="ocr\guangxi-2019\zhinan\json\guangxi-2020_10.json" />
     <Content Include="ocr\guangxi-2019\zhinan\json\guangxi-2020_100.json" />
